@@ -6,7 +6,7 @@ margin: 0;
 }
 
 #logo{
-  background: url(img/logo.png);
+  background: url(/img/logo.png);
   float:left;
   width: 140px;
   height:64px;
